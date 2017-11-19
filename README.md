@@ -1,2 +1,2 @@
 # DiUSCheckoutSystem
-DiUS is starting a computer store
+Checkout system for DiUS computer store was developed using java
